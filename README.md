@@ -6,7 +6,7 @@ There are three modules to the Internship:
 2. Data Insights
 3. Data Insights & Presentation (Visualization & Dashboard)
 ## Tech Stack
-python<br/>
-pandas<br/>
-tableau<br/>
-excel
+Python<br/>
+Pandas<br/>
+Tableau<br/>
+Excel
