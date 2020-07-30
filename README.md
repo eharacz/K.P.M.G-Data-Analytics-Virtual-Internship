@@ -10,3 +10,4 @@ Python<br/>
 Pandas<br/>
 Tableau<br/>
 Excel
+Jupyter Notebook/Atom
