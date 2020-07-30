@@ -9,5 +9,5 @@ There are three modules to the Internship:
 Python<br/>
 Pandas<br/>
 Tableau<br/>
-Excel
+Excel<br/>
 Jupyter Notebook/Atom
